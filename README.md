@@ -40,6 +40,8 @@ Switched from Random Forest to XGBoost, which handles outliers and missing value
 📊 Visualizations :
 
 <img width="1053" height="603" alt="image" src="https://github.com/user-attachments/assets/eb2616e7-35a3-438c-9bc2-add26b00513b" />
+<img width="1990" height="590" alt="image" src="https://github.com/user-attachments/assets/a831ebca-f388-49c3-a8ad-d20f7500b56c" />
+
 
 🔮 Future Improvements :
 
