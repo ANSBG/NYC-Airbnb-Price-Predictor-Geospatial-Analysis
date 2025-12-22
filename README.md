@@ -1,5 +1,6 @@
 
-🗽 NYC Airbnb Price Predictor & Geospatial Analysis
+🗽 NYC Airbnb Price Predictor & Geospatial Analysis:
+
 An Advanced Machine Learning Project for Real Estate Estimation
 
 📖 Project Overview :
