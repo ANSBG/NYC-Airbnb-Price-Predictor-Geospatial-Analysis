@@ -10,6 +10,7 @@ It moves beyond simple analysis by engineering advanced geospatial and text-base
 
 🏆 Key Results :
 
+
 By implementing advanced feature engineering (Distance to City Center, NLP on listing names) and using XGBoost with Log-Transformation, this project achieved:
 Mean Absolute Error (MAE): $36.30
 Interpretation: On average, the model's price prediction is within ~$36 of the actual listing price.
