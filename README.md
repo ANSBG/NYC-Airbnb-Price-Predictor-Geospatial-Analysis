@@ -17,10 +17,14 @@ Interpretation: On average, the model's price prediction is within ~$36 of the a
 Performance Upgrade: The use of XGBoost and "Distance to Times Square" features improved accuracy significantly over a standard Random Forest baseline.
 
 🛠️ Tech Stack & Methods :
-Language: Python 3.10+
+Language: Python 3.10+ 
+
 Data Processing: Pandas, NumPy (Log-transforms for skew handling)
+
 Geospatial: Folium (Interactive Heatmaps), Haversine Formula (Distance calculation)
+
 Machine Learning: XGBoost (Extreme Gradient Boosting), Scikit-Learn
+
 Natural Language Processing (NLP): Keyword extraction from listing descriptions (e.g., "Luxury", "View").
 
 ⚙️ Methodology (How I lowered the Error) :
